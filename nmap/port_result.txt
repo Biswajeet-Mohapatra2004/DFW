@@ -1,0 +1,201 @@
+# Nmap 7.94SVN scan initiated Tue Dec  3 08:45:36 2024 as: /usr/lib/nmap/nmap -p 21,22,80,443 -iL scanned_ip.txt -oN port_result.txt
+Nmap scan report for 172.17.156.4
+Host is up (0.00036s latency).
+
+PORT    STATE  SERVICE
+21/tcp  closed ftp
+22/tcp  open   ssh
+80/tcp  closed http
+443/tcp closed https
+MAC Address: D4:3D:7E:48:63:A6 (Micro-Star Int'l)
+
+Nmap scan report for 172.17.156.7
+Host is up (0.00065s latency).
+
+PORT    STATE  SERVICE
+21/tcp  closed ftp
+22/tcp  open   ssh
+80/tcp  closed http
+443/tcp closed https
+MAC Address: C0:25:A5:92:B3:A1 (Dell)
+
+Nmap scan report for 172.17.156.12
+Host is up (0.00038s latency).
+
+PORT    STATE    SERVICE
+21/tcp  filtered ftp
+22/tcp  filtered ssh
+80/tcp  filtered http
+443/tcp filtered https
+MAC Address: 08:8F:C3:B9:A2:BF (Unknown)
+
+Nmap scan report for 172.17.156.14
+Host is up (0.00046s latency).
+
+PORT    STATE  SERVICE
+21/tcp  open   ftp
+22/tcp  closed ssh
+80/tcp  open   http
+443/tcp closed https
+MAC Address: 3C:D9:2B:07:0B:04 (Hewlett Packard)
+
+Nmap scan report for 172.17.156.40
+Host is up (0.00052s latency).
+
+PORT    STATE  SERVICE
+21/tcp  closed ftp
+22/tcp  closed ssh
+80/tcp  closed http
+443/tcp closed https
+MAC Address: 8C:EC:4B:CD:55:97 (Dell)
+
+Nmap scan report for 172.17.156.53
+Host is up (0.0015s latency).
+
+PORT    STATE  SERVICE
+21/tcp  closed ftp
+22/tcp  open   ssh
+80/tcp  closed http
+443/tcp closed https
+MAC Address: A4:BB:6D:8A:09:DB (Dell)
+
+Nmap scan report for 172.17.156.55
+Host is up (0.00037s latency).
+
+PORT    STATE  SERVICE
+21/tcp  closed ftp
+22/tcp  open   ssh
+80/tcp  closed http
+443/tcp closed https
+MAC Address: D4:3D:7E:48:64:00 (Micro-Star Int'l)
+
+Nmap scan report for 172.17.156.58
+Host is up (0.00028s latency).
+
+PORT    STATE  SERVICE
+21/tcp  closed ftp
+22/tcp  closed ssh
+80/tcp  closed http
+443/tcp closed https
+MAC Address: 8C:EC:4B:CC:E9:A7 (Dell)
+
+Nmap scan report for 172.17.156.60
+Host is up (0.00032s latency).
+
+PORT    STATE  SERVICE
+21/tcp  closed ftp
+22/tcp  closed ssh
+80/tcp  closed http
+443/tcp closed https
+MAC Address: 8C:EC:4B:CD:61:5B (Dell)
+
+Nmap scan report for 172.17.156.91
+Host is up (0.0043s latency).
+
+PORT    STATE  SERVICE
+21/tcp  closed ftp
+22/tcp  open   ssh
+80/tcp  open   http
+443/tcp open   https
+MAC Address: 2C:3E:CF:FB:EB:E5 (Cisco Systems)
+
+Nmap scan report for 172.17.156.96
+Host is up (0.00034s latency).
+
+PORT    STATE  SERVICE
+21/tcp  closed ftp
+22/tcp  open   ssh
+80/tcp  closed http
+443/tcp closed https
+MAC Address: D4:3D:7E:48:64:20 (Micro-Star Int'l)
+
+Nmap scan report for 172.17.156.102
+Host is up (0.00039s latency).
+
+PORT    STATE  SERVICE
+21/tcp  closed ftp
+22/tcp  closed ssh
+80/tcp  closed http
+443/tcp closed https
+MAC Address: E4:A8:DF:97:85:8D (Compal Information (Kunshan))
+
+Nmap scan report for 172.17.156.180
+Host is up (0.0056s latency).
+
+PORT    STATE  SERVICE
+21/tcp  closed ftp
+22/tcp  open   ssh
+80/tcp  open   http
+443/tcp open   https
+MAC Address: 2C:3E:CF:FB:DF:E3 (Cisco Systems)
+
+Nmap scan report for 172.17.156.182
+Host is up (0.0018s latency).
+
+PORT    STATE  SERVICE
+21/tcp  closed ftp
+22/tcp  open   ssh
+80/tcp  closed http
+443/tcp closed https
+MAC Address: A4:BB:6D:89:AD:EC (Dell)
+
+Nmap scan report for 172.17.156.220
+Host is up (0.00025s latency).
+
+PORT    STATE    SERVICE
+21/tcp  filtered ftp
+22/tcp  filtered ssh
+80/tcp  filtered http
+443/tcp filtered https
+MAC Address: 58:11:22:85:99:42 (ASUSTek Computer)
+
+Nmap scan report for 172.17.156.221
+Host is up (0.00024s latency).
+
+PORT    STATE    SERVICE
+21/tcp  filtered ftp
+22/tcp  filtered ssh
+80/tcp  filtered http
+443/tcp filtered https
+MAC Address: E4:A8:DF:C7:33:2E (Compal Information (Kunshan))
+
+Nmap scan report for 172.17.156.228
+Host is up (0.0014s latency).
+
+PORT    STATE  SERVICE
+21/tcp  closed ftp
+22/tcp  open   ssh
+80/tcp  closed http
+443/tcp closed https
+MAC Address: A4:BB:6D:8A:0A:EE (Dell)
+
+Nmap scan report for 172.17.156.234
+Host is up (0.00036s latency).
+
+PORT    STATE  SERVICE
+21/tcp  closed ftp
+22/tcp  open   ssh
+80/tcp  closed http
+443/tcp closed https
+MAC Address: 8C:89:A5:F6:55:CE (Micro-Star INT'L)
+
+Nmap scan report for 172.17.156.239
+Host is up (0.00036s latency).
+
+PORT    STATE  SERVICE
+21/tcp  closed ftp
+22/tcp  open   ssh
+80/tcp  closed http
+443/tcp closed https
+MAC Address: D4:3D:7E:48:63:A2 (Micro-Star Int'l)
+
+Nmap scan report for 172.17.156.63
+Host is up (0.000044s latency).
+
+PORT    STATE  SERVICE
+21/tcp  closed ftp
+22/tcp  closed ssh
+80/tcp  closed http
+443/tcp closed https
+
+# Nmap done at Tue Dec  3 08:46:00 2024 -- 20 IP addresses (20 hosts up) scanned in 23.75 seconds

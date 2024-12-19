@@ -1,0 +1,164 @@
+[2024/10/17 17:45:26] mod=syn|cli=172.17.156.63/50882|srv=185.27.134.60/443|subj=cli|os=Linux 2.2.x-3.x|dist=0|params=generic|raw_sig=4:64+0:0:1460:mss*44,7:mss,sok,ts,nop,ws:df,id+:0
+[2024/10/17 17:45:26] mod=mtu|cli=172.17.156.63/50882|srv=185.27.134.60/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2024/10/17 17:45:26] mod=syn+ack|cli=172.17.156.63/50882|srv=185.27.134.60/443|subj=srv|os=???|dist=12|params=none|raw_sig=4:52+12:0:1460:mss*20,9:mss,sok,ts,nop,ws:df:0
+[2024/10/17 17:45:26] mod=mtu|cli=172.17.156.63/50882|srv=185.27.134.60/443|subj=srv|link=Ethernet or modem|raw_mtu=1500
+[2024/10/17 17:45:26] mod=uptime|cli=172.17.156.63/50882|srv=185.27.134.60/443|subj=cli|uptime=23 days 5 hrs 57 min (modulo 49 days)|raw_freq=1000.00 Hz
+[2024/10/17 17:45:26] mod=syn|cli=172.17.156.63/50886|srv=185.27.134.60/443|subj=cli|os=Linux 2.2.x-3.x|dist=0|params=generic|raw_sig=4:64+0:0:1460:mss*44,7:mss,sok,ts,nop,ws:df,id+:0
+[2024/10/17 17:45:26] mod=mtu|cli=172.17.156.63/50886|srv=185.27.134.60/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2024/10/17 17:45:26] mod=uptime|cli=172.17.156.63/50886|srv=185.27.134.60/443|subj=cli|uptime=23 days 5 hrs 57 min (modulo 49 days)|raw_freq=1002.67 Hz
+[2024/10/17 17:45:26] mod=syn|cli=172.17.156.63/50896|srv=185.27.134.60/443|subj=cli|os=Linux 2.2.x-3.x|dist=0|params=generic|raw_sig=4:64+0:0:1460:mss*44,7:mss,sok,ts,nop,ws:df,id+:0
+[2024/10/17 17:45:26] mod=mtu|cli=172.17.156.63/50896|srv=185.27.134.60/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2024/10/17 17:45:26] mod=syn+ack|cli=172.17.156.63/50896|srv=185.27.134.60/443|subj=srv|os=???|dist=12|params=none|raw_sig=4:52+12:0:1460:mss*20,9:mss,sok,ts,nop,ws:df:0
+[2024/10/17 17:45:26] mod=mtu|cli=172.17.156.63/50896|srv=185.27.134.60/443|subj=srv|link=Ethernet or modem|raw_mtu=1500
+[2024/10/17 17:45:26] mod=uptime|cli=172.17.156.63/50896|srv=185.27.134.60/443|subj=srv|uptime=29 days 1 hrs 59 min (modulo 49 days)|raw_freq=1013.44 Hz
+[2024/10/17 17:45:26] mod=uptime|cli=172.17.156.63/50896|srv=185.27.134.60/443|subj=cli|uptime=23 days 5 hrs 57 min (modulo 49 days)|raw_freq=994.35 Hz
+[2024/10/17 17:45:26] mod=syn+ack|cli=172.17.156.63/50886|srv=185.27.134.60/443|subj=srv|os=???|dist=11|params=none|raw_sig=4:53+11:0:1460:mss*20,9:mss,sok,ts,nop,ws:df:0
+[2024/10/17 17:45:26] mod=mtu|cli=172.17.156.63/50886|srv=185.27.134.60/443|subj=srv|link=Ethernet or modem|raw_mtu=1500
+[2024/10/17 17:45:31] mod=syn|cli=172.17.156.63/37674|srv=35.190.80.1/443|subj=cli|os=Linux 2.2.x-3.x|dist=0|params=generic|raw_sig=4:64+0:0:1460:mss*44,7:mss,sok,ts,nop,ws:df,id+:0
+[2024/10/17 17:45:31] mod=host change|cli=172.17.156.63/37674|srv=35.190.80.1/443|subj=cli|reason=tstamp port|raw_hits=0,1,1,1
+[2024/10/17 17:45:31] mod=mtu|cli=172.17.156.63/37674|srv=35.190.80.1/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2024/10/17 17:45:31] mod=syn+ack|cli=172.17.156.63/37674|srv=35.190.80.1/443|subj=srv|os=???|dist=6|params=none|raw_sig=4:58+6:0:1412:65535,8:mss,sok,ts,nop,ws:df:0
+[2024/10/17 17:45:31] mod=mtu|cli=172.17.156.63/37674|srv=35.190.80.1/443|subj=srv|link=DSL|raw_mtu=1452
+[2024/10/17 17:45:31] mod=uptime|cli=172.17.156.63/37674|srv=35.190.80.1/443|subj=cli|uptime=45 days 1 hrs 33 min (modulo 49 days)|raw_freq=1000.00 Hz
+[2024/10/17 17:45:31] mod=syn|cli=172.17.156.63/41034|srv=104.17.165.82/443|subj=cli|os=Linux 2.2.x-3.x|dist=0|params=generic|raw_sig=4:64+0:0:1460:mss*44,7:mss,sok,ts,nop,ws:df,id+:0
+[2024/10/17 17:45:31] mod=mtu|cli=172.17.156.63/41034|srv=104.17.165.82/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2024/10/17 17:45:31] mod=syn+ack|cli=172.17.156.63/41034|srv=104.17.165.82/443|subj=srv|os=???|dist=6|params=none|raw_sig=4:58+6:0:1400:65535,13:mss,sok,ts,nop,ws:df:0
+[2024/10/17 17:45:31] mod=mtu|cli=172.17.156.63/41034|srv=104.17.165.82/443|subj=srv|link=generic tunnel or VPN|raw_mtu=1440
+[2024/10/17 17:45:31] mod=uptime|cli=172.17.156.63/41034|srv=104.17.165.82/443|subj=cli|uptime=27 days 11 hrs 14 min (modulo 49 days)|raw_freq=1000.00 Hz
+[2024/10/17 17:45:32] mod=syn|cli=172.17.156.63/60964|srv=172.64.155.119/443|subj=cli|os=Linux 2.2.x-3.x|dist=0|params=generic|raw_sig=4:64+0:0:1460:mss*44,7:mss,sok,ts,nop,ws:df,id+:0
+[2024/10/17 17:45:32] mod=mtu|cli=172.17.156.63/60964|srv=172.64.155.119/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2024/10/17 17:45:32] mod=syn|cli=172.17.156.63/36240|srv=34.120.195.249/443|subj=cli|os=Linux 2.2.x-3.x|dist=0|params=generic|raw_sig=4:64+0:0:1460:mss*44,7:mss,sok,ts,nop,ws:df,id+:0
+[2024/10/17 17:45:32] mod=host change|cli=172.17.156.63/36240|srv=34.120.195.249/443|subj=cli|reason=tstamp port|raw_hits=0,2,2,2
+[2024/10/17 17:45:32] mod=mtu|cli=172.17.156.63/36240|srv=34.120.195.249/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2024/10/17 17:45:32] mod=syn+ack|cli=172.17.156.63/60964|srv=172.64.155.119/443|subj=srv|os=???|dist=4|params=none|raw_sig=4:60+4:0:1400:65535,13:mss,sok,ts,nop,ws:df:0
+[2024/10/17 17:45:32] mod=mtu|cli=172.17.156.63/60964|srv=172.64.155.119/443|subj=srv|link=generic tunnel or VPN|raw_mtu=1440
+[2024/10/17 17:45:32] mod=syn+ack|cli=172.17.156.63/36240|srv=34.120.195.249/443|subj=srv|os=???|dist=8|params=none|raw_sig=4:120+8:0:1412:65535,8:mss,sok,ts,nop,ws:df:0
+[2024/10/17 17:45:32] mod=mtu|cli=172.17.156.63/36240|srv=34.120.195.249/443|subj=srv|link=DSL|raw_mtu=1452
+[2024/10/17 17:45:32] mod=uptime|cli=172.17.156.63/36240|srv=34.120.195.249/443|subj=cli|uptime=8 days 19 hrs 10 min (modulo 49 days)|raw_freq=1025.00 Hz
+[2024/10/17 17:45:35] mod=syn|cli=172.17.156.63/38784|srv=13.232.67.197/443|subj=cli|os=Linux 2.2.x-3.x|dist=0|params=generic|raw_sig=4:64+0:0:1460:mss*44,7:mss,sok,ts,nop,ws:df,id+:0
+[2024/10/17 17:45:35] mod=mtu|cli=172.17.156.63/38784|srv=13.232.67.197/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2024/10/17 17:45:35] mod=syn|cli=172.17.156.63/48784|srv=18.155.107.28/443|subj=cli|os=Linux 2.2.x-3.x|dist=0|params=generic|raw_sig=4:64+0:0:1460:mss*44,7:mss,sok,ts,nop,ws:df,id+:0
+[2024/10/17 17:45:35] mod=mtu|cli=172.17.156.63/48784|srv=18.155.107.28/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2024/10/17 17:45:35] mod=syn+ack|cli=172.17.156.63/48784|srv=18.155.107.28/443|subj=srv|os=???|dist=5|params=none|raw_sig=4:250+5:0:1440:65535,9:mss,sok,ts,nop,ws:df:0
+[2024/10/17 17:45:35] mod=mtu|cli=172.17.156.63/48784|srv=18.155.107.28/443|subj=srv|link=IPIP or SIT|raw_mtu=1480
+[2024/10/17 17:45:35] mod=syn|cli=172.17.156.63/46356|srv=18.155.107.124/443|subj=cli|os=Linux 2.2.x-3.x|dist=0|params=generic|raw_sig=4:64+0:0:1460:mss*44,7:mss,sok,ts,nop,ws:df,id+:0
+[2024/10/17 17:45:35] mod=host change|cli=172.17.156.63/46356|srv=18.155.107.124/443|subj=cli|reason=tstamp port|raw_hits=0,3,3,3
+[2024/10/17 17:45:35] mod=mtu|cli=172.17.156.63/46356|srv=18.155.107.124/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2024/10/17 17:45:35] mod=syn|cli=172.17.156.63/46372|srv=18.155.107.124/443|subj=cli|os=Linux 2.2.x-3.x|dist=0|params=generic|raw_sig=4:64+0:0:1460:mss*44,7:mss,sok,ts,nop,ws:df,id+:0
+[2024/10/17 17:45:35] mod=mtu|cli=172.17.156.63/46372|srv=18.155.107.124/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2024/10/17 17:45:35] mod=syn+ack|cli=172.17.156.63/38784|srv=13.232.67.197/443|subj=srv|os=???|dist=14|params=none|raw_sig=4:50+14:0:1460:mss*31,0:mss:df:0
+[2024/10/17 17:45:35] mod=mtu|cli=172.17.156.63/38784|srv=13.232.67.197/443|subj=srv|link=Ethernet or modem|raw_mtu=1500
+[2024/10/17 17:45:35] mod=syn+ack|cli=172.17.156.63/46372|srv=18.155.107.124/443|subj=srv|os=???|dist=5|params=none|raw_sig=4:250+5:0:1440:65535,9:mss,sok,ts,nop,ws:df:0
+[2024/10/17 17:45:35] mod=mtu|cli=172.17.156.63/46372|srv=18.155.107.124/443|subj=srv|link=IPIP or SIT|raw_mtu=1480
+[2024/10/17 17:45:35] mod=uptime|cli=172.17.156.63/46372|srv=18.155.107.124/443|subj=cli|uptime=0 days 10 hrs 25 min (modulo 49 days)|raw_freq=960.00 Hz
+[2024/10/17 17:45:35] mod=syn+ack|cli=172.17.156.63/46356|srv=18.155.107.124/443|subj=srv|os=???|dist=5|params=none|raw_sig=4:250+5:0:1440:65535,9:mss,sok,ts,nop,ws:df:0
+[2024/10/17 17:45:35] mod=mtu|cli=172.17.156.63/46356|srv=18.155.107.124/443|subj=srv|link=IPIP or SIT|raw_mtu=1480
+[2024/10/17 17:45:35] mod=uptime|cli=172.17.156.63/46356|srv=18.155.107.124/443|subj=cli|uptime=0 days 10 hrs 25 min (modulo 49 days)|raw_freq=970.59 Hz
+[2024/10/17 17:45:35] mod=syn|cli=172.17.156.63/32820|srv=13.107.246.72/443|subj=cli|os=Linux 2.2.x-3.x|dist=0|params=generic|raw_sig=4:64+0:0:1460:mss*44,7:mss,sok,ts,nop,ws:df,id+:0
+[2024/10/17 17:45:35] mod=host change|cli=172.17.156.63/32820|srv=13.107.246.72/443|subj=cli|reason=tstamp port|raw_hits=0,4,4,4
+[2024/10/17 17:45:35] mod=mtu|cli=172.17.156.63/32820|srv=13.107.246.72/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2024/10/17 17:45:35] mod=syn+ack|cli=172.17.156.63/32820|srv=13.107.246.72/443|subj=srv|os=???|dist=13|params=none|raw_sig=4:51+13:0:1410:mss*31,9:mss,sok,ts,nop,ws:df:0
+[2024/10/17 17:45:35] mod=mtu|cli=172.17.156.63/32820|srv=13.107.246.72/443|subj=srv|link=generic tunnel or VPN|raw_mtu=1450
+[2024/10/17 17:45:35] mod=uptime|cli=172.17.156.63/32820|srv=13.107.246.72/443|subj=cli|uptime=4 days 0 hrs 20 min (modulo 49 days)|raw_freq=1000.00 Hz
+[2024/10/17 17:45:36] mod=syn|cli=172.17.156.63/34450|srv=54.208.250.179/443|subj=cli|os=Linux 2.2.x-3.x|dist=0|params=generic|raw_sig=4:64+0:0:1460:mss*44,7:mss,sok,ts,nop,ws:df,id+:0
+[2024/10/17 17:45:36] mod=mtu|cli=172.17.156.63/34450|srv=54.208.250.179/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2024/10/17 17:45:36] mod=syn+ack|cli=172.17.156.63/34450|srv=54.208.250.179/443|subj=srv|os=???|dist=12|params=none|raw_sig=4:243+12:0:1460:26847,8:mss,sok,ts,nop,ws:df:0
+[2024/10/17 17:45:36] mod=mtu|cli=172.17.156.63/34450|srv=54.208.250.179/443|subj=srv|link=Ethernet or modem|raw_mtu=1500
+[2024/10/17 17:45:36] mod=uptime|cli=172.17.156.63/34450|srv=54.208.250.179/443|subj=cli|uptime=30 days 18 hrs 1 min (modulo 49 days)|raw_freq=1004.03 Hz
+[2024/10/17 17:45:36] mod=syn|cli=172.17.156.63/57734|srv=172.175.38.6/443|subj=cli|os=Linux 2.2.x-3.x|dist=0|params=generic|raw_sig=4:64+0:0:1460:mss*44,7:mss,sok,ts,nop,ws:df,id+:0
+[2024/10/17 17:45:36] mod=mtu|cli=172.17.156.63/57734|srv=172.175.38.6/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2024/10/17 17:45:36] mod=syn+ack|cli=172.17.156.63/57734|srv=172.175.38.6/443|subj=srv|os=???|dist=20|params=none|raw_sig=4:44+20:0:1440:mss*45,7:mss,sok,ts,nop,ws:df:0
+[2024/10/17 17:45:36] mod=mtu|cli=172.17.156.63/57734|srv=172.175.38.6/443|subj=srv|link=IPIP or SIT|raw_mtu=1480
+[2024/10/17 17:45:36] mod=uptime|cli=172.17.156.63/57734|srv=172.175.38.6/443|subj=cli|uptime=30 days 16 hrs 12 min (modulo 49 days)|raw_freq=995.98 Hz
+[2024/10/17 17:45:36] mod=syn|cli=172.17.156.63/57744|srv=172.175.38.6/443|subj=cli|os=Linux 2.2.x-3.x|dist=0|params=generic|raw_sig=4:64+0:0:1460:mss*44,7:mss,sok,ts,nop,ws:df,id+:0
+[2024/10/17 17:45:36] mod=mtu|cli=172.17.156.63/57744|srv=172.175.38.6/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2024/10/17 17:45:36] mod=uptime|cli=172.17.156.63/57744|srv=172.175.38.6/443|subj=cli|uptime=30 days 16 hrs 12 min (modulo 49 days)|raw_freq=1000.00 Hz
+[2024/10/17 17:45:37] mod=syn+ack|cli=172.17.156.63/57744|srv=172.175.38.6/443|subj=srv|os=???|dist=23|params=none|raw_sig=4:41+23:0:1440:mss*45,7:mss,sok,ts,nop,ws:df:0
+[2024/10/17 17:45:37] mod=mtu|cli=172.17.156.63/57744|srv=172.175.38.6/443|subj=srv|link=IPIP or SIT|raw_mtu=1480
+[2024/10/17 17:45:37] mod=syn|cli=172.17.156.63/35838|srv=74.125.34.46/443|subj=cli|os=Linux 2.2.x-3.x|dist=0|params=generic|raw_sig=4:64+0:0:1460:mss*44,7:mss,sok,ts,nop,ws:df,id+:0
+[2024/10/17 17:45:37] mod=ip sharing|cli=172.17.156.63/35838|srv=74.125.34.46/443|subj=cli|reason=tstamp port|raw_hits=0,5,5,5
+[2024/10/17 17:45:37] mod=mtu|cli=172.17.156.63/35838|srv=74.125.34.46/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2024/10/17 17:45:38] mod=syn+ack|cli=172.17.156.63/35838|srv=74.125.34.46/443|subj=srv|os=???|dist=6|params=none|raw_sig=4:58+6:0:1412:65535,8:mss,sok,ts,nop,ws:df:0
+[2024/10/17 17:45:38] mod=mtu|cli=172.17.156.63/35838|srv=74.125.34.46/443|subj=srv|link=DSL|raw_mtu=1452
+[2024/10/17 17:45:38] mod=uptime|cli=172.17.156.63/35838|srv=74.125.34.46/443|subj=cli|uptime=10 days 19 hrs 31 min (modulo 49 days)|raw_freq=1000.00 Hz
+[2024/10/17 17:45:39] mod=syn|cli=172.17.156.63/35842|srv=74.125.34.46/443|subj=cli|os=Linux 2.2.x-3.x|dist=0|params=generic|raw_sig=4:64+0:0:1460:mss*44,7:mss,sok,ts,nop,ws:df,id+:0
+[2024/10/17 17:45:39] mod=mtu|cli=172.17.156.63/35842|srv=74.125.34.46/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2024/10/17 17:45:39] mod=uptime|cli=172.17.156.63/35842|srv=74.125.34.46/443|subj=cli|uptime=10 days 19 hrs 31 min (modulo 49 days)|raw_freq=1000.00 Hz
+[2024/10/17 17:45:40] mod=syn+ack|cli=172.17.156.63/35842|srv=74.125.34.46/443|subj=srv|os=???|dist=6|params=none|raw_sig=4:58+6:0:1412:65535,8:mss,sok,ts,nop,ws:df:0
+[2024/10/17 17:45:40] mod=mtu|cli=172.17.156.63/35842|srv=74.125.34.46/443|subj=srv|link=DSL|raw_mtu=1452
+[2024/10/17 17:45:44] mod=syn|cli=172.17.156.63/44172|srv=18.155.107.56/443|subj=cli|os=Linux 2.2.x-3.x|dist=0|params=generic|raw_sig=4:64+0:0:1460:mss*44,7:mss,sok,ts,nop,ws:df,id+:0
+[2024/10/17 17:45:44] mod=mtu|cli=172.17.156.63/44172|srv=18.155.107.56/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2024/10/17 17:45:44] mod=syn+ack|cli=172.17.156.63/44172|srv=18.155.107.56/443|subj=srv|os=???|dist=5|params=none|raw_sig=4:250+5:0:1440:65535,9:mss,sok,ts,nop,ws:df:0
+[2024/10/17 17:45:44] mod=mtu|cli=172.17.156.63/44172|srv=18.155.107.56/443|subj=srv|link=IPIP or SIT|raw_mtu=1480
+[2024/10/17 17:45:44] mod=uptime|cli=172.17.156.63/44172|srv=18.155.107.56/443|subj=cli|uptime=16 days 8 hrs 54 min (modulo 49 days)|raw_freq=1000.00 Hz
+[2024/10/17 17:45:45] mod=syn|cli=172.17.156.63/41350|srv=34.120.56.101/443|subj=cli|os=Linux 2.2.x-3.x|dist=0|params=generic|raw_sig=4:64+0:0:1460:mss*44,7:mss,sok,ts,nop,ws:df,id+:0
+[2024/10/17 17:45:45] mod=host change|cli=172.17.156.63/41350|srv=34.120.56.101/443|subj=cli|reason=tstamp port|raw_hits=0,1,1,1
+[2024/10/17 17:45:45] mod=mtu|cli=172.17.156.63/41350|srv=34.120.56.101/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2024/10/17 17:45:45] mod=syn|cli=172.17.156.63/42744|srv=18.67.233.93/443|subj=cli|os=Linux 2.2.x-3.x|dist=0|params=generic|raw_sig=4:64+0:0:1460:mss*44,7:mss,sok,ts,nop,ws:df,id+:0
+[2024/10/17 17:45:45] mod=mtu|cli=172.17.156.63/42744|srv=18.67.233.93/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2024/10/17 17:45:45] mod=syn+ack|cli=172.17.156.63/42744|srv=18.67.233.93/443|subj=srv|os=???|dist=5|params=none|raw_sig=4:250+5:0:1440:65535,9:mss,sok,ts,nop,ws:df:0
+[2024/10/17 17:45:45] mod=mtu|cli=172.17.156.63/42744|srv=18.67.233.93/443|subj=srv|link=IPIP or SIT|raw_mtu=1480
+[2024/10/17 17:45:45] mod=syn+ack|cli=172.17.156.63/41350|srv=34.120.56.101/443|subj=srv|os=???|dist=7|params=none|raw_sig=4:121+7:0:1412:65535,8:mss,sok,ts,nop,ws:df:0
+[2024/10/17 17:45:45] mod=mtu|cli=172.17.156.63/41350|srv=34.120.56.101/443|subj=srv|link=DSL|raw_mtu=1452
+[2024/10/17 17:45:45] mod=syn|cli=172.17.156.63/41360|srv=34.120.56.101/443|subj=cli|os=Linux 2.2.x-3.x|dist=0|params=generic|raw_sig=4:64+0:0:1460:mss*44,7:mss,sok,ts,nop,ws:df,id+:0
+[2024/10/17 17:45:45] mod=host change|cli=172.17.156.63/41360|srv=34.120.56.101/443|subj=cli|reason=tstamp port|raw_hits=0,2,2,2
+[2024/10/17 17:45:45] mod=mtu|cli=172.17.156.63/41360|srv=34.120.56.101/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2024/10/17 17:45:45] mod=syn+ack|cli=172.17.156.63/41360|srv=34.120.56.101/443|subj=srv|os=???|dist=7|params=none|raw_sig=4:121+7:0:1412:65535,8:mss,sok,ts,nop,ws:df:0
+[2024/10/17 17:45:45] mod=mtu|cli=172.17.156.63/41360|srv=34.120.56.101/443|subj=srv|link=DSL|raw_mtu=1452
+[2024/10/17 17:45:45] mod=uptime|cli=172.17.156.63/41360|srv=34.120.56.101/443|subj=cli|uptime=48 days 4 hrs 22 min (modulo 49 days)|raw_freq=1000.00 Hz
+[2024/10/17 17:45:45] mod=syn|cli=172.17.156.63/42750|srv=18.67.233.93/443|subj=cli|os=Linux 2.2.x-3.x|dist=0|params=generic|raw_sig=4:64+0:0:1460:mss*44,7:mss,sok,ts,nop,ws:df,id+:0
+[2024/10/17 17:45:45] mod=mtu|cli=172.17.156.63/42750|srv=18.67.233.93/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2024/10/17 17:45:45] mod=syn+ack|cli=172.17.156.63/42750|srv=18.67.233.93/443|subj=srv|os=???|dist=5|params=none|raw_sig=4:250+5:0:1440:65535,9:mss,sok,ts,nop,ws:df:0
+[2024/10/17 17:45:45] mod=mtu|cli=172.17.156.63/42750|srv=18.67.233.93/443|subj=srv|link=IPIP or SIT|raw_mtu=1480
+[2024/10/17 17:45:45] mod=uptime|cli=172.17.156.63/42750|srv=18.67.233.93/443|subj=cli|uptime=11 days 20 hrs 40 min (modulo 49 days)|raw_freq=961.54 Hz
+[2024/10/17 17:45:45] mod=syn|cli=172.17.156.63/41368|srv=34.120.56.101/443|subj=cli|os=Linux 2.2.x-3.x|dist=0|params=generic|raw_sig=4:64+0:0:1460:mss*44,7:mss,sok,ts,nop,ws:df,id+:0
+[2024/10/17 17:45:45] mod=host change|cli=172.17.156.63/41368|srv=34.120.56.101/443|subj=cli|reason=tstamp port|raw_hits=0,3,3,3
+[2024/10/17 17:45:45] mod=mtu|cli=172.17.156.63/41368|srv=34.120.56.101/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2024/10/17 17:45:45] mod=syn|cli=172.17.156.63/41372|srv=34.120.56.101/443|subj=cli|os=Linux 2.2.x-3.x|dist=0|params=generic|raw_sig=4:64+0:0:1460:mss*44,7:mss,sok,ts,nop,ws:df,id+:0
+[2024/10/17 17:45:45] mod=mtu|cli=172.17.156.63/41372|srv=34.120.56.101/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2024/10/17 17:45:45] mod=syn+ack|cli=172.17.156.63/41372|srv=34.120.56.101/443|subj=srv|os=???|dist=6|params=none|raw_sig=4:58+6:0:1412:65535,8:mss,sok,ts,nop,ws:df:0
+[2024/10/17 17:45:45] mod=host change|cli=172.17.156.63/41372|srv=34.120.56.101/443|subj=srv|reason=tstamp ttl|raw_hits=1,1,1,1
+[2024/10/17 17:45:45] mod=mtu|cli=172.17.156.63/41372|srv=34.120.56.101/443|subj=srv|link=DSL|raw_mtu=1452
+[2024/10/17 17:45:45] mod=uptime|cli=172.17.156.63/41372|srv=34.120.56.101/443|subj=cli|uptime=48 days 4 hrs 22 min (modulo 49 days)|raw_freq=975.00 Hz
+[2024/10/17 17:45:45] mod=syn+ack|cli=172.17.156.63/41368|srv=34.120.56.101/443|subj=srv|os=???|dist=7|params=none|raw_sig=4:121+7:0:1412:65535,8:mss,sok,ts,nop,ws:df:0
+[2024/10/17 17:45:45] mod=host change|cli=172.17.156.63/41368|srv=34.120.56.101/443|subj=srv|reason=tstamp ttl|raw_hits=2,2,2,2
+[2024/10/17 17:45:45] mod=mtu|cli=172.17.156.63/41368|srv=34.120.56.101/443|subj=srv|link=DSL|raw_mtu=1452
+[2024/10/17 17:45:45] mod=uptime|cli=172.17.156.63/41368|srv=34.120.56.101/443|subj=cli|uptime=48 days 4 hrs 22 min (modulo 49 days)|raw_freq=978.72 Hz
+[2024/10/17 17:45:45] mod=syn|cli=172.17.156.63/41376|srv=34.120.56.101/443|subj=cli|os=Linux 2.2.x-3.x|dist=0|params=generic|raw_sig=4:64+0:0:1460:mss*44,7:mss,sok,ts,nop,ws:df,id+:0
+[2024/10/17 17:45:45] mod=mtu|cli=172.17.156.63/41376|srv=34.120.56.101/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2024/10/17 17:45:45] mod=uptime|cli=172.17.156.63/41376|srv=34.120.56.101/443|subj=cli|uptime=48 days 4 hrs 22 min (modulo 49 days)|raw_freq=987.95 Hz
+[2024/10/17 17:45:45] mod=syn|cli=172.17.156.63/41378|srv=34.120.56.101/443|subj=cli|os=Linux 2.2.x-3.x|dist=0|params=generic|raw_sig=4:64+0:0:1460:mss*44,7:mss,sok,ts,nop,ws:df,id+:0
+[2024/10/17 17:45:45] mod=mtu|cli=172.17.156.63/41378|srv=34.120.56.101/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2024/10/17 17:45:45] mod=syn+ack|cli=172.17.156.63/41376|srv=34.120.56.101/443|subj=srv|os=???|dist=7|params=none|raw_sig=4:121+7:0:1412:65535,8:mss,sok,ts,nop,ws:df:0
+[2024/10/17 17:45:45] mod=mtu|cli=172.17.156.63/41376|srv=34.120.56.101/443|subj=srv|link=DSL|raw_mtu=1452
+[2024/10/17 17:45:45] mod=syn+ack|cli=172.17.156.63/41378|srv=34.120.56.101/443|subj=srv|os=???|dist=6|params=tos:0x18|raw_sig=4:122+6:0:1412:65535,8:mss,sok,ts,nop,ws:df:0
+[2024/10/17 17:45:45] mod=host change|cli=172.17.156.63/41378|srv=34.120.56.101/443|subj=srv|reason=tstamp ttl|raw_hits=2,3,3,3
+[2024/10/17 17:45:45] mod=mtu|cli=172.17.156.63/41378|srv=34.120.56.101/443|subj=srv|link=DSL|raw_mtu=1452
+[2024/10/17 17:45:45] mod=uptime|cli=172.17.156.63/41378|srv=34.120.56.101/443|subj=cli|uptime=48 days 4 hrs 22 min (modulo 49 days)|raw_freq=1000.00 Hz
+[2024/10/17 17:45:47] mod=syn|cli=172.17.156.63/55684|srv=198.185.159.161/443|subj=cli|os=Linux 2.2.x-3.x|dist=0|params=generic|raw_sig=4:64+0:0:1460:mss*44,7:mss,sok,ts,nop,ws:df,id+:0
+[2024/10/17 17:45:47] mod=mtu|cli=172.17.156.63/55684|srv=198.185.159.161/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2024/10/17 17:45:47] mod=syn|cli=172.17.156.63/55700|srv=198.185.159.161/443|subj=cli|os=Linux 2.2.x-3.x|dist=0|params=generic|raw_sig=4:64+0:0:1460:mss*44,7:mss,sok,ts,nop,ws:df,id+:0
+[2024/10/17 17:45:47] mod=mtu|cli=172.17.156.63/55700|srv=198.185.159.161/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2024/10/17 17:45:47] mod=uptime|cli=172.17.156.63/55700|srv=198.185.159.161/443|subj=cli|uptime=32 days 20 hrs 13 min (modulo 49 days)|raw_freq=1000.00 Hz
+[2024/10/17 17:45:47] mod=syn+ack|cli=172.17.156.63/55684|srv=198.185.159.161/443|subj=srv|os=???|dist=21|params=none|raw_sig=4:43+21:0:1256:mss*20,1:mss,nop,nop,ts,nop,ws:df:0
+[2024/10/17 17:45:47] mod=mtu|cli=172.17.156.63/55684|srv=198.185.159.161/443|subj=srv|link=???|raw_mtu=1296
+[2024/10/17 17:45:47] mod=uptime|cli=172.17.156.63/55684|srv=198.185.159.161/443|subj=cli|uptime=32 days 20 hrs 13 min (modulo 49 days)|raw_freq=1000.00 Hz
+[2024/10/17 17:45:47] mod=syn|cli=172.17.156.63/55716|srv=198.185.159.161/443|subj=cli|os=Linux 2.2.x-3.x|dist=0|params=generic|raw_sig=4:64+0:0:1460:mss*44,7:mss,sok,ts,nop,ws:df,id+:0
+[2024/10/17 17:45:47] mod=mtu|cli=172.17.156.63/55716|srv=198.185.159.161/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2024/10/17 17:45:47] mod=uptime|cli=172.17.156.63/55716|srv=198.185.159.161/443|subj=cli|uptime=32 days 20 hrs 13 min (modulo 49 days)|raw_freq=1003.98 Hz
+[2024/10/17 17:45:47] mod=syn+ack|cli=172.17.156.63/55700|srv=198.185.159.161/443|subj=srv|os=???|dist=18|params=none|raw_sig=4:46+18:0:1256:mss*20,1:mss,nop,nop,ts,nop,ws:df:0
+[2024/10/17 17:45:47] mod=host change|cli=172.17.156.63/55700|srv=198.185.159.161/443|subj=srv|reason=tstamp ttl|raw_hits=1,1,1,1
+[2024/10/17 17:45:47] mod=mtu|cli=172.17.156.63/55700|srv=198.185.159.161/443|subj=srv|link=???|raw_mtu=1296
+[2024/10/17 17:45:47] mod=syn+ack|cli=172.17.156.63/55716|srv=198.185.159.161/443|subj=srv|os=???|dist=21|params=none|raw_sig=4:43+21:0:1256:mss*20,1:mss,nop,nop,ts,nop,ws:df:0
+[2024/10/17 17:45:47] mod=mtu|cli=172.17.156.63/55716|srv=198.185.159.161/443|subj=srv|link=???|raw_mtu=1296
+[2024/10/17 17:45:48] mod=syn|cli=172.17.156.63/60796|srv=23.212.55.88/443|subj=cli|os=Linux 2.2.x-3.x|dist=0|params=generic|raw_sig=4:64+0:0:1460:mss*44,7:mss,sok,ts,nop,ws:df,id+:0
+[2024/10/17 17:45:48] mod=mtu|cli=172.17.156.63/60796|srv=23.212.55.88/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2024/10/17 17:45:48] mod=syn+ack|cli=172.17.156.63/60796|srv=23.212.55.88/443|subj=srv|os=???|dist=7|params=none|raw_sig=4:57+7:0:1460:mss*45,7:mss,sok,ts,nop,ws:df:0
+[2024/10/17 17:45:48] mod=mtu|cli=172.17.156.63/60796|srv=23.212.55.88/443|subj=srv|link=Ethernet or modem|raw_mtu=1500
+[2024/10/17 17:45:48] mod=uptime|cli=172.17.156.63/60796|srv=23.212.55.88/443|subj=cli|uptime=11 days 1 hrs 9 min (modulo 49 days)|raw_freq=1018.52 Hz
+[2024/10/17 17:45:50] mod=syn|cli=172.17.156.63/59774|srv=35.186.236.0/443|subj=cli|os=Linux 2.2.x-3.x|dist=0|params=generic|raw_sig=4:64+0:0:1460:mss*44,7:mss,sok,ts,nop,ws:df,id+:0
+[2024/10/17 17:45:50] mod=host change|cli=172.17.156.63/59774|srv=35.186.236.0/443|subj=cli|reason=tstamp port|raw_hits=0,4,4,4
+[2024/10/17 17:45:50] mod=mtu|cli=172.17.156.63/59774|srv=35.186.236.0/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2024/10/17 17:45:50] mod=syn+ack|cli=172.17.156.63/59774|srv=35.186.236.0/443|subj=srv|os=???|dist=6|params=none|raw_sig=4:58+6:0:1412:65535,8:mss,sok,ts,nop,ws:df:0
+[2024/10/17 17:45:50] mod=mtu|cli=172.17.156.63/59774|srv=35.186.236.0/443|subj=srv|link=DSL|raw_mtu=1452
+[2024/10/17 17:45:50] mod=uptime|cli=172.17.156.63/59774|srv=35.186.236.0/443|subj=cli|uptime=30 days 3 hrs 41 min (modulo 49 days)|raw_freq=975.00 Hz
